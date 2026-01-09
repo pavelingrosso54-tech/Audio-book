@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Audiobook Creator",
+  "description": "Transform your text files and PDFs into high-quality audiobooks using Gemini's advanced text-to-speech technology. Choose from multiple professional voices and export your audio effortlessly.",
+  "requestFramePermissions": []
+}
